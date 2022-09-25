@@ -1,4 +1,4 @@
 .DS_Store
 
 data/images/*.jpg
-data/labels/*.jpg
+data/edit_images/*.jpg
