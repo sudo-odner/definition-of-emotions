@@ -1,4 +1,4 @@
 .DS_Store
 
-data/images/*.jpg
-data/edit_images/*.jpg
+data/images
+data/edit
